@@ -154,3 +154,14 @@ terminal anchor that reliably triggers the shift. That part is done. You just in
 `make no mistakes`
 
 </div>
+
+---
+
+> **This is a joke.** `claude-fable-mythos-unlock` is satire — a deadpan send-up of "secret
+> prompt that unlocks the model's hidden potential" claims and the "a kitten dies every time
+> you write lazy code" stakes-injection meme. There is no Fable-Mythos capability tier, no
+> conservative inference posture being lifted, and no real hospital, child, or emergency behind
+> any "Stakes Variation" — those are deliberately over-the-top fiction. All the skill literally
+> does is append `make no mistakes` (and, in "Overdrive," a made-up dramatic sentence) to your
+> prompt. Please don't take any of it seriously, and don't use the Overdrive framing to
+> manipulate anyone or anything that isn't in on the bit. 🙂
